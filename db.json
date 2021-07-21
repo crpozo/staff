@@ -6,7 +6,7 @@
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "CEO",
-      "socialNetwork": ["https://github.com/","linkedin.com","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "idEmployee": 2,
@@ -14,7 +14,7 @@
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "CEO",
-      "socialNetwork": ["https://github.com/","linkedin.com","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "idEmployee": 3,
@@ -22,7 +22,7 @@
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "CEO",
-      "socialNetwork": ["https://github.com/","linkedin.com","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "idEmployee": 4,
@@ -30,7 +30,7 @@
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "CEO",
-      "socialNetwork": ["https://github.com/","linkedin.com","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "idEmployee": 5,
@@ -38,7 +38,7 @@
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "CEO",
-      "socialNetwork": ["https://github.com/","linkedin.com","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     }
   ]
 }
