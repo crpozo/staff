@@ -1,7 +1,7 @@
 {
   "employees":[
     {
-      "idEmployee": 1,
+      "id": 1,
       "firstLastname":"John Doe",
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
@@ -9,7 +9,7 @@
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
-      "idEmployee": 2,
+      "id": 2,
       "firstLastname":"John Doe 2",
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
@@ -17,7 +17,7 @@
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
-      "idEmployee": 3,
+      "id": 3,
       "firstLastname":"John Doe 3",
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
@@ -25,7 +25,7 @@
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
-      "idEmployee": 4,
+      "id": 4,
       "firstLastname":"John Doe 4",
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
@@ -33,7 +33,7 @@
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
-      "idEmployee": 5,
+      "id": 5,
       "firstLastname":"John Doe 5",
       "description": "Employee 1",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
