@@ -11,7 +11,7 @@
           {"name": "Linkedin", "link": "https://www.linkedin.com/"},
           {"name": "Xing", "link": "https://www.xing.com/"},
           {"name": "Facebook", "link": "https://facebook.com/"}
-        ]
+       ]
     },
     {
       "id": 2,
@@ -19,7 +19,11 @@
       "description": "Employee 2 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "Project Manager, ",
-      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": [
+          {"name": "Linkedin", "link": "https://www.linkedin.com/"},
+          {"name": "Xing", "link": "https://www.xing.com/"},
+          {"name": "Facebook", "link": "https://facebook.com/"}
+       ]
     },
     {
       "id": 3,
@@ -27,7 +31,9 @@
       "description": "Employee 3 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "Developer",
-      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": [
+          {"name": "Github", "link": "https://github.com/"}
+       ]
     },
     {
       "id": 4,
@@ -35,7 +41,9 @@
       "description": "Employee 4 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "Developer",
-      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": [
+          {"name": "Github", "link": "https://github.com/"}
+       ]
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "description": "Employee 5 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "Developer",
-      "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
+      "socialNetwork": [
+          {"name": "Github", "link": "https://github.com/"}
+       ]
     }
   ]
 }
