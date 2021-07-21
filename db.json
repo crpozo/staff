@@ -5,15 +5,13 @@
       "firstLastname":"John Doe",
       "description": "Employee 1 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
-      "position" : "CEO",
-      "socialNetwork": {
-        [
+      "position" : "CEO",            
+      "socialNetwork": [
           {"name": "Github", "link": "https://github.com/"},
           {"name": "Linkedin", "link": "https://www.linkedin.com/"},
           {"name": "Xing", "link": "https://www.xing.com/"},
           {"name": "Facebook", "link": "https://facebook.com/"}
         ]
-       }
     },
     {
       "id": 2,
