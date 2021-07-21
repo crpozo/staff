@@ -18,7 +18,7 @@
       "firstLastname":"John Doe 2",
       "description": "Employee 2 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
-      "position" : "Project Manager, ",
+      "position" : "Project Manager,
       "socialNetwork": [
           {"name": "Linkedin", "link": "https://www.linkedin.com/"},
           {"name": "Xing", "link": "https://www.xing.com/"},
