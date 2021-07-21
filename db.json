@@ -3,7 +3,7 @@
     {
       "id": 1,
       "firstLastname":"John Doe",
-      "description": "Employee 1",
+      "description": "Employee 1 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
       "position" : "CEO",
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
@@ -11,33 +11,33 @@
     {
       "id": 2,
       "firstLastname":"John Doe 2",
-      "description": "Employee 1",
+      "description": "Employee 2 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
-      "position" : "CEO",
+      "position" : "Project Manager, ",
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "id": 3,
       "firstLastname":"John Doe 3",
-      "description": "Employee 1",
+      "description": "Employee 3 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
-      "position" : "CEO",
+      "position" : "Developer",
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "id": 4,
       "firstLastname":"John Doe 4",
-      "description": "Employee 1",
+      "description": "Employee 4 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
-      "position" : "CEO",
+      "position" : "Developer",
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     },
     {
       "id": 5,
       "firstLastname":"John Doe 5",
-      "description": "Employee 1",
+      "description": "Employee 5 description",
       "imageUrl": "https://dummyimage.com/mediumrectangle",
-      "position" : "CEO",
+      "position" : "Developer",
       "socialNetwork": ["https://github.com/","https://www.linkedin.com/","https://www.xing.com/","https://facebook.com/"]
     }
   ]
